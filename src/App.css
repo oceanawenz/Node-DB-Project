@@ -1,33 +1,40 @@
 .App {
-  text-align: center;
+  width: 1140px;
+  margin: 0 auto;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: #15182b;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.content {
+  padding: 20px;
+  background-color: aqua;
   color: white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+            justify-content: flex-start;
+            align-items: flex-start;
+            align-content: flex-start;
 }
 
-.App-link {
-  color: #61dafb;
+.wishList {
+  background-color: #5b7199;
+  padding: 100px;
+  width: 260px;
+  position: sticky;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+
+
+.mappedItems {
+  display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	align-items: stretch;
+	align-content: stretch;
 }

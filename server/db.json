@@ -1,5 +1,5 @@
 [
-    {
+  {
         "identifier": "477f88c-eb310a8-234bcec-ccabb57",
         "name": "Black Widow Outfit",
         "description": "Whatever it takes.",
@@ -7,22 +7,9 @@
         "type": "outfit",
         "rarity": "marvel",
         "upcoming": 0,
-        "images": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/c66dfd9c1fd49c4e28012294eaa1d779.png",
-          "featured": {
-            "transparent": "https://fortnite-public-files.theapinetwork.com/featured/477f88c-eb310a8-234bcec-ccabb57.png"
-          },
-          "background": "https://fortnite-public-files.theapinetwork.com/image/477f88c-eb310a8-234bcec-ccabb57.png",
-          "info": "https://fortnite-public-files.theapinetwork.com/image/477f88c-eb310a8-234bcec-ccabb57/item.png"
-        },
-        "obtained": "1500",
-        "obtained_type": "vbucks",
-        "ratings": {
-          "avgStars": 4.26,
-          "totalPoints": 3303,
-          "numberVotes": 775
-        },
-        "lastupdate": "1557100802"
+        "imageTransparent" :"https://fortnite-public-files.theapinetwork.com/outfit/c66dfd9c1fd49c4e28012294eaa1d779.png",
+        "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/477f88c-eb310a8-234bcec-ccabb57.png",
+        "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/477f88c-eb310a8-234bcec-ccabb57.png"
       },
  
     {
@@ -33,22 +20,9 @@
       "type": "outfit",
       "rarity": "marvel",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/a6bac035952059b94ba5e665f6f5a0f0.png",
-        "featured": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/featured/d930dba-8e19b63-a6d5d94-6978fe3.png"
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/d930dba-8e19b63-a6d5d94-6978fe3.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/d930dba-8e19b63-a6d5d94-6978fe3/item.png"
-      },
-      "obtained": "1500",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.04,
-        "totalPoints": 2859,
-        "numberVotes": 708
-      },
-      "lastupdate": "1557100802"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/a6bac035952059b94ba5e665f6f5a0f0.png",
+      "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/d930dba-8e19b63-a6d5d94-6978fe3.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/d930dba-8e19b63-a6d5d94-6978fe3.png"
     },
     {
       "identifier": "5a9689f-590d3ff-7857d9b-b5bbf59",
@@ -58,22 +32,9 @@
       "type": "glider",
       "rarity": "marvel",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/glider/9df1b706eabbb63ff83fc02e4904d394.png",
-        "featured": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/featured/5a9689f-590d3ff-7857d9b-b5bbf59.png"
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/5a9689f-590d3ff-7857d9b-b5bbf59.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/5a9689f-590d3ff-7857d9b-b5bbf59/item.png"
-      },
-      "obtained": "1200",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.48,
-        "totalPoints": 1102,
-        "numberVotes": 246
-      },
-      "lastupdate": "1557100802"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/glider/9df1b706eabbb63ff83fc02e4904d394.png",
+      "imageFeatured":  "https://fortnite-public-files.theapinetwork.com/featured/5a9689f-590d3ff-7857d9b-b5bbf59.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/5a9689f-590d3ff-7857d9b-b5bbf59.png"
     },
     {
       "identifier": "f421389-fe2a512-f780fc9-2e78757",
@@ -83,22 +44,9 @@
       "type": "pickaxe",
       "rarity": "marvel",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/ebd2802ccdb7b8851a0bff5ad53d0776.png",
-        "featured": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/featured/f421389-fe2a512-f780fc9-2e78757.png"
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/f421389-fe2a512-f780fc9-2e78757.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/f421389-fe2a512-f780fc9-2e78757/item.png"
-      },
-      "obtained": "500",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 3.87,
-        "totalPoints": 523,
-        "numberVotes": 135
-      },
-      "lastupdate": "1557100801"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/ebd2802ccdb7b8851a0bff5ad53d0776.png", 
+      "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/f421389-fe2a512-f780fc9-2e78757.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/f421389-fe2a512-f780fc9-2e78757.png"
     },
     {
       "identifier": "9537ea4-2e798a1-6557b1e-2366d78",
@@ -108,22 +56,10 @@
       "type": "pickaxe",
       "rarity": "marvel",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/8596f4f7d4e2a96ab478a753b246b576.png",
-        "featured": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/featured/9537ea4-2e798a1-6557b1e-2366d78.png"
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/9537ea4-2e798a1-6557b1e-2366d78.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/9537ea4-2e798a1-6557b1e-2366d78/item.png"
-      },
-      "obtained": "800",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.42,
-        "totalPoints": 1188,
-        "numberVotes": 269
-      },
-      "lastupdate": "1557100802"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/pickaxe/8596f4f7d4e2a96ab478a753b246b576.png",
+      "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/9537ea4-2e798a1-6557b1e-2366d78.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/9537ea4-2e798a1-6557b1e-2366d78.png"
+
     },
     {
       "identifier": "d54bbb3-089ec26-0c67700-5484644",
@@ -133,22 +69,8 @@
       "type": "emote",
       "rarity": "marvel",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/emote/e4c7b4af53684e2f196ffb82d2ea659a.png",
-        "featured": {
-          "transparent": null
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/d54bbb3-089ec26-0c67700-5484644.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/d54bbb3-089ec26-0c67700-5484644/item.png"
-      },
-      "obtained": "500",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.13,
-        "totalPoints": 1449,
-        "numberVotes": 351
-      },
-      "lastupdate": "1557100802"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/emote/e4c7b4af53684e2f196ffb82d2ea659a.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/d54bbb3-089ec26-0c67700-5484644.png"
     },
     {
       "identifier": "86a39d5-ee70fa5-4f12bb0-035a2df",
@@ -158,22 +80,9 @@
       "type": "emote",
       "rarity": "marvel",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/emote/62084038079a817cefc8848b401ebf45.png",
-        "featured": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/featured/86a39d5-ee70fa5-4f12bb0-035a2df.png"
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/86a39d5-ee70fa5-4f12bb0-035a2df.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/86a39d5-ee70fa5-4f12bb0-035a2df/item.png"
-      },
-      "obtained": "200",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.22,
-        "totalPoints": 1084,
-        "numberVotes": 257
-      },
-      "lastupdate": "1557100801"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/emote/62084038079a817cefc8848b401ebf45.png",
+      "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/86a39d5-ee70fa5-4f12bb0-035a2df.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/86a39d5-ee70fa5-4f12bb0-035a2df.png"
     },
     {
       "identifier": "61ea3e9-8438e42-f53d351-e53a5ce",
@@ -183,22 +92,9 @@
       "type": "bundle",
       "rarity": "legendary",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/bundle/f1fd20e12c5c709780ea5602d9d9df0f.png",
-        "featured": {
-          "transparent": null
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/61ea3e9-8438e42-f53d351-e53a5ce.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/61ea3e9-8438e42-f53d351-e53a5ce/item.png"
-      },
-      "obtained": "3740",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.21,
-        "totalPoints": 1279,
-        "numberVotes": 304
-      },
-      "lastupdate": "1554300788"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/bundle/f1fd20e12c5c709780ea5602d9d9df0f.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/61ea3e9-8438e42-f53d351-e53a5ce.png",
+      "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/61ea3e9-8438e42-f53d351-e53a5ce/item.png"
     },
     {
       "identifier": "ecc49bf-443b19c-7185167-2a845ab",
@@ -208,22 +104,9 @@
       "type": "bundle",
       "rarity": "legendary",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/bundle/07a8a58f9551d6ce164a68e2a1ea068f.png",
-        "featured": {
-          "transparent": null
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/ecc49bf-443b19c-7185167-2a845ab.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/ecc49bf-443b19c-7185167-2a845ab/item.png"
-      },
-      "obtained": "3740",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.39,
-        "totalPoints": 1269,
-        "numberVotes": 289
-      },
-      "lastupdate": "1554300788"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/bundle/07a8a58f9551d6ce164a68e2a1ea068f.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/ecc49bf-443b19c-7185167-2a845ab.png",
+      "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/ecc49bf-443b19c-7185167-2a845ab/item.png"
     },
     {
       "identifier": "0488ed5-5eb8328-66baebe-9dc2fe0",
@@ -233,22 +116,9 @@
       "type": "bundle",
       "rarity": "legendary",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/bundle/d6df4bd65d8962c5a0f38341ca9fdd14.png",
-        "featured": {
-          "transparent": null
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/0488ed5-5eb8328-66baebe-9dc2fe0.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/0488ed5-5eb8328-66baebe-9dc2fe0/item.png"
-      },
-      "obtained": "4080",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 4.11,
-        "totalPoints": 530,
-        "numberVotes": 129
-      },
-      "lastupdate": "1554300788"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/bundle/d6df4bd65d8962c5a0f38341ca9fdd14.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/0488ed5-5eb8328-66baebe-9dc2fe0.png",
+      "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/0488ed5-5eb8328-66baebe-9dc2fe0/item.png"
     },
     {
       "identifier": "552cd39-3307b68-2aef1e3-414c094",
@@ -258,22 +128,9 @@
       "type": "outfit",
       "rarity": "legendary",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/b2598e4912ecd7116b0f4680aecc0dff.png",
-        "featured": {
-          "transparent": null
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/552cd39-3307b68-2aef1e3-414c094.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/552cd39-3307b68-2aef1e3-414c094/item.png"
-      },
-      "obtained": "Blockbuster (S6)",
-      "obtained_type": "battlepass",
-      "ratings": {
-        "avgStars": 3.65,
-        "totalPoints": 4744,
-        "numberVotes": 1300
-      },
-      "lastupdate": "1554300788"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/b2598e4912ecd7116b0f4680aecc0dff.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/552cd39-3307b68-2aef1e3-414c094.png",
+      "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/552cd39-3307b68-2aef1e3-414c094/item.png"
     },
     {
       "identifier": "c0884dc-59055fb-e536e6d-0364dfa",
@@ -283,22 +140,10 @@
       "type": "outfit",
       "rarity": "legendary",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/b04f5a5672084c7c10b8e434ea943084.png",
-        "featured": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/featured/c0884dc-59055fb-e536e6d-0364dfa.png"
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/c0884dc-59055fb-e536e6d-0364dfa.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/c0884dc-59055fb-e536e6d-0364dfa/item.png"
-      },
-      "obtained": "2000",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 3.63,
-        "totalPoints": 2775,
-        "numberVotes": 764
-      },
-      "lastupdate": "1556323206"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/b04f5a5672084c7c10b8e434ea943084.png",
+      "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/c0884dc-59055fb-e536e6d-0364dfa.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/c0884dc-59055fb-e536e6d-0364dfa.png",
+      "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/c0884dc-59055fb-e536e6d-0364dfa/item.png"
     },
     {
       "identifier": "f3b50ea-abe55f3-afe5376-d409e3c",
@@ -308,22 +153,10 @@
       "type": "outfit",
       "rarity": "legendary",
       "upcoming": 0,
-      "images": {
-        "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/f2104578468f47ad53c497d745b6c131.png",
-        "featured": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/featured/f3b50ea-abe55f3-afe5376-d409e3c.png"
-        },
-        "background": "https://fortnite-public-files.theapinetwork.com/image/f3b50ea-abe55f3-afe5376-d409e3c.png",
-        "info": "https://fortnite-public-files.theapinetwork.com/image/f3b50ea-abe55f3-afe5376-d409e3c/item.png"
-      },
-      "obtained": "2000",
-      "obtained_type": "vbucks",
-      "ratings": {
-        "avgStars": 3.97,
-        "totalPoints": 6363,
-        "numberVotes": 1604
-      },
-      "lastupdate": "1556409603"
+      "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/f2104578468f47ad53c497d745b6c131.png",
+      "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/f3b50ea-abe55f3-afe5376-d409e3c.png",
+      "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/f3b50ea-abe55f3-afe5376-d409e3c.png",
+      "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/f3b50ea-abe55f3-afe5376-d409e3c/item.png"
     },
     {
         "identifier": "7e44eaf-733bec2-6608bc9-0d95834",
@@ -333,22 +166,10 @@
         "type": "outfit",
         "rarity": "legendary",
         "upcoming": 0,
-        "images": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/fd9daa673f6f75cd33f61786716ce580.png",
-          "featured": {
-            "transparent": "https://fortnite-public-files.theapinetwork.com/featured/7e44eaf-733bec2-6608bc9-0d95834.png"
-          },
-          "background": "https://fortnite-public-files.theapinetwork.com/image/7e44eaf-733bec2-6608bc9-0d95834.png",
+        "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/fd9daa673f6f75cd33f61786716ce580.png",
+        "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/7e44eaf-733bec2-6608bc9-0d95834.png",
+        "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/7e44eaf-733bec2-6608bc9-0d95834.png",
           "info": "https://fortnite-public-files.theapinetwork.com/image/7e44eaf-733bec2-6608bc9-0d95834/item.png"
-        },
-        "obtained": "2000",
-        "obtained_type": "vbucks",
-        "ratings": {
-          "avgStars": 4.03,
-          "totalPoints": 3652,
-          "numberVotes": 907
-        },
-        "lastupdate": "1554300788"
       },
       {
         "identifier": "59eb4f6-e81c036-42fab23-375205c",
@@ -358,40 +179,24 @@
         "type": "outfit",
         "rarity": "legendary",
         "upcoming": 0,
-        "images": {
-          "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/f3d0ee3316df5a64ae286aeb4e0abc69.png",
-          "featured": {
-            "transparent": "https://fortnite-public-files.theapinetwork.com/featured/59eb4f6-e81c036-42fab23-375205c.png"
-          },
-          "background": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c.png",
-          "info": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c/item.png"
+        "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/f3d0ee3316df5a64ae286aeb4e0abc69.png",
+        "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/59eb4f6-e81c036-42fab23-375205c.png",
+        "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c.png",
+        "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c/item.png"
         },
-        {
-            "identifier": "b0b91f7-919b8c4-fad9a5a-48861f5",
-            "name": "Carbide",
-            "description": "Heed the call to action.",
-            "cost": 0,
-            "type": "outfit",
-            "rarity": "legendary",
-            "upcoming": 0,
-            "images": {
-              "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/77a3fcdb432eb3b5260675c2ae75b6d7.png",
-              "featured": {
-                "transparent": null
-              },
-              "background": "https://fortnite-public-files.theapinetwork.com/image/b0b91f7-919b8c4-fad9a5a-48861f5.png",
-              "info": "https://fortnite-public-files.theapinetwork.com/image/b0b91f7-919b8c4-fad9a5a-48861f5/item.png"
-            },
-            "obtained": "\rTier 1 (S4)",
-            "obtained_type": "battlepass",
-            "ratings": {
-              "avgStars": 3.79,
-              "totalPoints": 1954,
-              "numberVotes": 516
-            },
-            "lastupdate": "1554300788"
+      {
+          "identifier": "b0b91f7-919b8c4-fad9a5a-48861f5",
+          "name": "Carbide",
+          "description": "Heed the call to action.",
+          "cost": 0,
+          "type": "outfit",
+          "rarity": "legendary",
+          "upcoming": 0,
+          "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/77a3fcdb432eb3b5260675c2ae75b6d7.png",
+          "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/b0b91f7-919b8c4-fad9a5a-48861f5.png",
+          "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/b0b91f7-919b8c4-fad9a5a-48861f5/item.png"
           },
-          {
+        {
             "identifier": "405e5de-9fc16ea-85c24cd-d0c353f",
             "name": "Chomp Sr.",
             "description": "Take a bite out of victory.",
@@ -399,22 +204,9 @@
             "type": "outfit",
             "rarity": "legendary",
             "upcoming": 0,
-            "images": {
-              "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/51377dfc4dbeb59cda16fb35c3028380.png",
-              "featured": {
-                "transparent": null
-              },
-              "background": "https://fortnite-public-files.theapinetwork.com/image/405e5de-9fc16ea-85c24cd-d0c353f.png",
-              "info": "https://fortnite-public-files.theapinetwork.com/image/405e5de-9fc16ea-85c24cd-d0c353f/item.png"
-            },
-            "obtained": "2000",
-            "obtained_type": "vbucks",
-            "ratings": {
-              "avgStars": 3.82,
-              "totalPoints": 2352,
-              "numberVotes": 615
-            },
-            "lastupdate": "1555113607"
+            "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/51377dfc4dbeb59cda16fb35c3028380.png",
+            "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/405e5de-9fc16ea-85c24cd-d0c353f.png",
+            "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/405e5de-9fc16ea-85c24cd-d0c353f/item.png"
           },
           {
             "identifier": "e7de829-056f91d-4744fc8-5009f62",
@@ -424,22 +216,10 @@
             "type": "outfit",
             "rarity": "legendary",
             "upcoming": 0,
-            "images": {
-              "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/16234106715cc22dc20773c2d674101a.png",
-              "featured": {
-                "transparent": "https://fortnite-public-files.theapinetwork.com/featured/e7de829-056f91d-4744fc8-5009f62.png"
-              },
-              "background": "https://fortnite-public-files.theapinetwork.com/image/e7de829-056f91d-4744fc8-5009f62.png",
-              "info": "https://fortnite-public-files.theapinetwork.com/image/e7de829-056f91d-4744fc8-5009f62/item.png"
-            },
-            "obtained": "2000",
-            "obtained_type": "vbucks",
-            "ratings": {
-              "avgStars": 4.03,
-              "totalPoints": 2238,
-              "numberVotes": 555
-            },
-            "lastupdate": "1554300788"
+            "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/16234106715cc22dc20773c2d674101a.png",
+            "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/e7de829-056f91d-4744fc8-5009f62.png",
+            "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/e7de829-056f91d-4744fc8-5009f62.png",
+            "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/e7de829-056f91d-4744fc8-5009f62/item.png"
           },
           {
             "identifier": "f147878-1ed75cf-713d7c6-3dde3b2",
@@ -449,22 +229,10 @@
             "type": "outfit",
             "rarity": "legendary",
             "upcoming": 0,
-            "images": {
-              "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/ff8dcd84a1f9a3f211d257194b1a75e4.png",
-              "featured": {
-                "transparent": "https://fortnite-public-files.theapinetwork.com/featured/f147878-1ed75cf-713d7c6-3dde3b2.png"
-              },
-              "background": "https://fortnite-public-files.theapinetwork.com/image/f147878-1ed75cf-713d7c6-3dde3b2.png",
-              "info": "https://fortnite-public-files.theapinetwork.com/image/f147878-1ed75cf-713d7c6-3dde3b2/item.png"
-            },
-            "obtained": "2000",
-            "obtained_type": "vbucks",
-            "ratings": {
-              "avgStars": 3.33,
-              "totalPoints": 1638,
-              "numberVotes": 492
-            },
-            "lastupdate": "1557446402"
+            "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/ff8dcd84a1f9a3f211d257194b1a75e4.png",
+            "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/f147878-1ed75cf-713d7c6-3dde3b2.png",
+            "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/f147878-1ed75cf-713d7c6-3dde3b2.png",
+            "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/f147878-1ed75cf-713d7c6-3dde3b2/item.png"
           },
           {
             "identifier": "c3a4196-e107207-a617cec-ef48916",
@@ -474,22 +242,10 @@
             "type": "outfit",
             "rarity": "legendary",
             "upcoming": 0,
-            "images": {
-              "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/0424531c5bc3bec418c53c7d8a8ff82f.png",
-              "featured": {
-                "transparent": "https://fortnite-public-files.theapinetwork.com/featured/c3a4196-e107207-a617cec-ef48916.png"
-              },
-              "background": "https://fortnite-public-files.theapinetwork.com/image/c3a4196-e107207-a617cec-ef48916.png",
-              "info": "https://fortnite-public-files.theapinetwork.com/image/c3a4196-e107207-a617cec-ef48916/item.png"
-            },
-            "obtained": "2000",
-            "obtained_type": "vbucks",
-            "ratings": {
-              "avgStars": 4.11,
-              "totalPoints": 3947,
-              "numberVotes": 961
-            },
-            "lastupdate": "1556230168"
+            "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/0424531c5bc3bec418c53c7d8a8ff82f.png",
+            "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/c3a4196-e107207-a617cec-ef48916.png",
+            "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/c3a4196-e107207-a617cec-ef48916.png",
+            "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/c3a4196-e107207-a617cec-ef48916/item.png"
           },
           {
             "identifier": "3a73cab-749e26d-b54e8c5-505b5e4",
@@ -499,20 +255,9 @@
             "type": "outfit",
             "rarity": "legendary",
             "upcoming": 0,
-            "images": {
-              "transparent": "https://fortnite-public-files.theapinetwork.com/outfit/a6b5ef2c3f7831274fa5fc02f08c54a4.png",
-              "featured": {
-                "transparent": "https://fortnite-public-files.theapinetwork.com/featured/3a73cab-749e26d-b54e8c5-505b5e4.png"
-              },
-              "background": "https://fortnite-public-files.theapinetwork.com/image/3a73cab-749e26d-b54e8c5-505b5e4.png",
-              "info": "https://fortnite-public-files.theapinetwork.com/image/3a73cab-749e26d-b54e8c5-505b5e4/item.png"
-            },   
-            "obtained": "2000",
-            "obtained_type": "vbucks",
-            "ratings": {
-              "avgStars": 4.07,
-              "totalPoints": 2915,
-              "numberVotes": 717
-            },
-            "lastupdate": "1556557667"
+            "imageTransparent": "https://fortnite-public-files.theapinetwork.com/outfit/a6b5ef2c3f7831274fa5fc02f08c54a4.png",
+            "imageFeatured": "https://fortnite-public-files.theapinetwork.com/featured/3a73cab-749e26d-b54e8c5-505b5e4.png",
+            "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/3a73cab-749e26d-b54e8c5-505b5e4.png",
+            "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/3a73cab-749e26d-b54e8c5-505b5e4/item.png"
           }
+  ]

@@ -6,12 +6,12 @@ const {
     updateItemFavorite,
     deleteFromWishList,
 } = require("./controller/itemController");
-
+console.log(getAllItems);
 
 app.use(express.json());
 
 app.get("/api/fortnite_items", getAllItems);
-app.post("./api/post/fortnite_items", postItemToWishList);
+app.post("/api/fortnite_items", postItemToWishList);
 app.put("/api/fortnite_items:id", updateItemFavorite);
 app.delete("/api/fortnite_items:id", deleteFromWishList);
 
