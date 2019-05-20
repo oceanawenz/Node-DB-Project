@@ -14,6 +14,7 @@ export default class ItemDisplay extends Component {
 
 
 render() {
+    console.log(this.props.key)
     const {
         id,
         name,
@@ -22,8 +23,7 @@ render() {
         imageBackground,
         inCollection,
         rating,
-        addToWishList
-
+        postItemToWishList
     } = this.props
     return (
         <div className="itemDisplayContainer">
@@ -32,15 +32,11 @@ render() {
                 <img className="itemImage" src={imageBackground} alt=""/>
            </div>
            <div className="itemContentContainer">
-                {/* {inCollection ?
-                    <button>Unfavorite</button>  :
-                    <button onClick={() => addToWishList({id, imageBackground, inCollection })} >Favorite</button> 
-                        
-                } */}
+
                 {inCollection ?
-                    // <button onClick={() => deleteFromWishList(index)}>Remove</button> :
+                   
                     <button>trash</button> :
-                    <img className="heartBtn" src={yellowHeart} alt="addButton" onClick={() => addToWishList({id, imageBackground, rating, inCollection: true })}/>
+                    <img className="heartBtn" src={yellowHeart} alt="addButton" onClick={() => postItemToWishList({id, imageBackground, rating, inCollection: true })}/>
                     
                 }
     

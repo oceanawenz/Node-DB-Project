@@ -1,6 +1,6 @@
 [
   {
-        "identifier": "477f88c-eb310a8-234bcec-ccabb57",
+        "id": 1,
         "name": "Black Widow",
         "description": "Whatever it takes.",
         "cost": 1500,
@@ -13,7 +13,7 @@
       },
  
     {
-      "identifier": "d930dba-8e19b63-a6d5d94-6978fe3",
+      "id": 2,
       "name": "Star-Lord",
       "description": "Do something good, something bad, a bit of both!",
       "cost": 1500,
@@ -25,7 +25,7 @@
       "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/d930dba-8e19b63-a6d5d94-6978fe3.png"
     },
     {
-      "identifier": "5a9689f-590d3ff-7857d9b-b5bbf59",
+      "id": 3,
       "name": "The Milano",
       "description": "Guard the galaxy in style.",
       "cost": 1200,
@@ -37,7 +37,7 @@
       "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/5a9689f-590d3ff-7857d9b-b5bbf59.png"
     },
     {
-      "identifier": "f421389-fe2a512-f780fc9-2e78757",
+      "id": 4,
       "name": "Guardian Axe",
       "description": "Cut down cosmic threats.",
       "cost": 500,
@@ -49,7 +49,7 @@
       "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/f421389-fe2a512-f780fc9-2e78757.png"
     },
     {
-      "identifier": "9537ea4-2e798a1-6557b1e-2366d78",
+      "id": 5,
       "name": "Widow's Bite",
       "description": "Shockingly effective.",
       "cost": 800,
@@ -62,7 +62,7 @@
 
     },
     {
-      "identifier": "d54bbb3-089ec26-0c67700-5484644",
+      "id": 6,
       "name": "Dance Off",
       "description": "Star-Lord&acirc;&euro;&trade;s perfect distraction.",
       "cost": 500,
@@ -73,7 +73,7 @@
       "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/d54bbb3-089ec26-0c67700-5484644.png"
     },
     {
-      "identifier": "86a39d5-ee70fa5-4f12bb0-035a2df",
+      "id": 7,
       "name": "Widow's Pirouette",
       "description": "A deadly dance.",
       "cost": 200,
@@ -85,7 +85,7 @@
       "imageBackground": "https://fortnite-public-files.theapinetwork.com/image/86a39d5-ee70fa5-4f12bb0-035a2df.png"
     },
     {
-      "identifier": "61ea3e9-8438e42-f53d351-e53a5ce",
+      "id": 8,
       "name": "Leviathan",
       "description": "Leviathan outfit, Fish Tank back bling, Planetary Probe glider, and Global Axe pickaxe.",
       "cost": 3740,
@@ -97,7 +97,7 @@
       "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/61ea3e9-8438e42-f53d351-e53a5ce/item.png"
     },
     {
-      "identifier": "ecc49bf-443b19c-7185167-2a845ab",
+      "id": 9,
       "name": "Rex",
       "description": "Rex outfit, Scaly back bling, Pterodactyl glider, and Bitemark pickaxe.",
       "cost": 3740,
@@ -109,7 +109,7 @@
       "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/ecc49bf-443b19c-7185167-2a845ab/item.png"
     },
     {
-      "identifier": "0488ed5-5eb8328-66baebe-9dc2fe0",
+      "id": 10,
       "name": "Wukong",
       "description": "Wukong outfit, Royale Dragon glider, Royale Flags back bling, and Dragon Axe pickaxe.",
       "cost": 4080,
@@ -121,7 +121,7 @@
       "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/0488ed5-5eb8328-66baebe-9dc2fe0/item.png"
     },
     {
-      "identifier": "552cd39-3307b68-2aef1e3-414c094",
+      "id": 11,
       "name": "A.I.M.",
       "description": "Scanning area for targets",
       "cost": 300,
@@ -133,7 +133,7 @@
       "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/552cd39-3307b68-2aef1e3-414c094/item.png"
     },
     {
-      "identifier": "c0884dc-59055fb-e536e6d-0364dfa",
+      "id": 12,
       "name": "Arachne",
       "description": "Weave a web to victory.",
       "cost": 2000,
@@ -146,7 +146,7 @@
       "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/c0884dc-59055fb-e536e6d-0364dfa/item.png"
     },
     {
-      "identifier": "f3b50ea-abe55f3-afe5376-d409e3c",
+      "id": 13,
       "name": "Ark",
       "description": "Pristine plumage.",
       "cost": 2000,
@@ -159,7 +159,7 @@
       "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/f3b50ea-abe55f3-afe5376-d409e3c/item.png"
     },
     {
-        "identifier": "7e44eaf-733bec2-6608bc9-0d95834",
+        "id": 14,
         "name": "Battle Hound",
         "description": "Release the hound!",
         "cost": 2000,
@@ -172,7 +172,7 @@
           "info": "https://fortnite-public-files.theapinetwork.com/image/7e44eaf-733bec2-6608bc9-0d95834/item.png"
       },
       {
-        "identifier": "59eb4f6-e81c036-42fab23-375205c",
+        "id": 15,
         "name": "Black Knight",
         "description": "The odious scourge of Wailing Woods.",
         "cost": 0,
@@ -185,7 +185,7 @@
         "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/59eb4f6-e81c036-42fab23-375205c/item.png"
         },
       {
-          "identifier": "b0b91f7-919b8c4-fad9a5a-48861f5",
+          "id": 16,
           "name": "Carbide",
           "description": "Heed the call to action.",
           "cost": 0,
@@ -197,7 +197,7 @@
           "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/b0b91f7-919b8c4-fad9a5a-48861f5/item.png"
           },
         {
-            "identifier": "405e5de-9fc16ea-85c24cd-d0c353f",
+            "id": 17,
             "name": "Chomp Sr.",
             "description": "Take a bite out of victory.",
             "cost": 2000,
@@ -209,7 +209,7 @@
             "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/405e5de-9fc16ea-85c24cd-d0c353f/item.png"
           },
           {
-            "identifier": "e7de829-056f91d-4744fc8-5009f62",
+            "id": 18,
             "name": "Crackshot",
             "description": "Get out there and... crack some nuts.",
             "cost": 2000,
@@ -222,7 +222,7 @@
             "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/e7de829-056f91d-4744fc8-5009f62/item.png"
           },
           {
-            "identifier": "f147878-1ed75cf-713d7c6-3dde3b2",
+            "id": 19,
             "name": "Criterion",
             "description": "Unwavering dedication.",
             "cost": 2000,
@@ -235,7 +235,7 @@
             "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/f147878-1ed75cf-713d7c6-3dde3b2/item.png"
           },
           {
-            "identifier": "c3a4196-e107207-a617cec-ef48916",
+            "id": 20,
             "name": "Cuddle Bear",
             "description": "Hug it out.",
             "cost": 2000,
@@ -248,7 +248,7 @@
             "imageInfo": "https://fortnite-public-files.theapinetwork.com/image/c3a4196-e107207-a617cec-ef48916/item.png"
           },
           {
-            "identifier": "3a73cab-749e26d-b54e8c5-505b5e4",
+            "id": 21,
             "name": "Dark Vanguard",
             "description": "Exploring the outer limits.",
             "cost": 2000,

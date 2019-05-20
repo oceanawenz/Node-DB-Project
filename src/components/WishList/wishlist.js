@@ -7,15 +7,17 @@ export default class WishList extends Component {
         super(props)
         this.state = {
             items: [],
-            newRating: ''
+            new_rating: this.props.rating
         }
+        
     }
 
     
 
     render() {
-        const { id, imageBackground, removeFromWishList, updateItemRatingById, index, rating } = this.props;
-    
+        const { imageBackground, deleteFromWishList, updateItemRatingById, index, id, rating } = this.props;
+        const {new_rating} = this.state;
+        console.log(this.state.items)
     return (
         <div className="wishList-imgContainer">
         
@@ -23,24 +25,24 @@ export default class WishList extends Component {
                 <img className="item-img" src={imageBackground} alt=""/>
             </div>
             <div className="itemRating">
-                <span>{rating}</span>
+                <span>{new_rating}</span>
             </div>
             <div className="trashIcon">
                 
-                <img src={trash} alt="addButton" onClick={() => removeFromWishList(index)}/>
+                <img src={trash} alt="addButton" onClick={() => 
+                    deleteFromWishList(index)}/>
             </div>
-           
             
             
                     <div className="ratingContainer">
                     <input onChange={element =>
                         this.setState({
-                        newRating: element.target.value
+                        new_rating: element.target.value
                         })
                     }
-                    value={this.state.newRating}
+                    value={new_rating}
                     />
-                    <button onClick={() => updateItemRatingById(id, this.state.newRating)}>
+                    <button onClick={() => updateItemRatingById(id, new_rating) }>
                         Rate
                     </button>
                     </div>
