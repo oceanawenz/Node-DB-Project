@@ -13,14 +13,18 @@ module.exports = {
         res.status(200).send(myItems);
     },
     
-    updateItemFavorite: (req, res, next) => {
-        const {id} = req.params;
-        const {favorite} = req.query;
-        const index = itemCollection.findIndex((element) => {
-            return element.id == id
-        });
-    },
-    
+    updateItemRatingById: (req, res, next) => {
+        const { id } = req.params;
+        const { new_rating } = req.query
+        const index = itemCollection.findIndex(element => {
+                return element.id == id;
+            });
+            if (index !== -1) {
+                itemCollection[index].rating = new_rating;
+            }
+                res.status(200).send(itemCollection);
+        },
+           
     deleteFromWishList: (req, res, next) => {
     //delete item using value of id from url parameters
     const deleteId = req.params.id;

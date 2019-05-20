@@ -11,6 +11,24 @@
 	align-content: stretch;
 }
 
+h2 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+h3 {
+    font-size: 16px;
+    letter-spacing: 2px;
+    color: #8ca7d1;
+    text-transform: uppercase;
+}
+
+span {
+    font-size: 17px;
+
+}
+
 .imageBox {
     height: 150px;
     width: 150px;
@@ -29,18 +47,28 @@
 }
 
 .heartBtn {
-    height: 36px;
+    height: 26px;
     position: absolute;
     right: 0px;
     top: 0px;
+    border-style: none;
+    background-color: transparent;
+}
+
+.heartBtn:hover {
 
 }
 
-.vbucksContainer {
 
+.vbucksContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
 }
 
 .vbucks {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
+    margin-right: 8px;
 }
+

@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.get("/api/fortnite_items", getAllItems);
 app.post("/api/fortnite_items", postItemToWishList);
-app.put("/api/fortnite_items:id", updateItemFavorite);
+// app.put("/api/fortnite_items:id", updateItemFavorite);
 app.delete("/api/fortnite_items:id", deleteFromWishList);
 
 const port = 4000;

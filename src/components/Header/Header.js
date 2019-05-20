@@ -1,11 +1,12 @@
 import React, {Component} from 'react';
 import "./header.css";
+import fortnite from "../../media/fortnite.png";
 
 class Header extends Component {
     render() {
         return (
             <div className="header">
-            <img className="logo" src="http://www.sclance.com/pngs/fortnite-logo-png/fortnite_logo_png_528445.png"/>
+            <img className="logo" src={fortnite} alt="fortnite-logo"/>
             </div>
         );
     };

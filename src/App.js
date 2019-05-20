@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import Header from './components/Header/Header';
 import ItemDisplay from './components/ItemDisplay/ItemDisplay';
 import WishList from './components/WishList/WishList';
+// import FavoriteBtn from './components/FavoriteBtn/FavoriteBtn';
 import axios from 'axios';
 import './App.css';
 
@@ -14,7 +15,9 @@ export default class App extends Component {
       }
       this.getMyItemCollection = this.getMyItemCollection.bind(this);
       this.addToWishList = this.addToWishList.bind(this);
+      this.updateItemRatingById = this.updateItemRatingById.bind(this);
       this.removeFromWishList = this.removeFromWishList.bind(this);
+   
   
   }
  
@@ -39,7 +42,6 @@ postItemToWishList(item) {
   })
 }
 
-
 deleteFromWishList(item) {
   axios.delete("/api/fortnite_items:id", item).then((response) => {
     this.setState({
@@ -49,11 +51,27 @@ deleteFromWishList(item) {
 }
 
 
-addToWishList(item) {
+
+
+updateItemRatingById (id, rating) {
+  axios.put(`/api/fortnite_items/${id}/${rating}`, {}).then((response) => {
     this.setState({
-      wishListCollection: [...this.state.wishListCollection, item],
-    });
+      itemCollection: response.data
+    })
+  })
 }
+
+
+addToWishList(item) {
+  this.setState({
+    wishListCollection: [...this.state.wishListCollection, item],
+  });
+  // this.setState ({
+  //   favorited: !this.state.favorited
+  // })
+  
+}    
+
 
 removeFromWishList(index) {
   let copiedWishListCollection = [...this.state.wishListCollection];
@@ -75,10 +93,10 @@ render() {
             name={element.name}
             cost={element.cost}
             rarity={element.rarity}
+            rating={element.rating}
             imageBackground={element.imageBackground}
             addToWishList={this.addToWishList}
             inCollection = {false}
-            // {...item}
             />
         </div>   
       );
@@ -89,6 +107,7 @@ render() {
         <div> 
         <WishList
           key={element.id}
+          rating={element.rating}
           imageBackground={element.imageBackground}
           removeFromWishList={this.removeFromWishList}
         />
@@ -111,11 +130,14 @@ render() {
           <h1>Items</h1>
           <div className="mappedItems">
               {mappedItemCollection}
+              {/* <FavoriteBtn/> */}
+              
           </div>
         </div>
         <div className="wishList">
-          <h3>Wishlist</h3>
+          <h1>Wishlist</h1>
           {mappedWishListCollection}
+          
         </div>
       </div>
       

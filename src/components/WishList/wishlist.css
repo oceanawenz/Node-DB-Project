@@ -1,0 +1,75 @@
+.wishList-imgContainer {
+    padding: 15px 0 10px 0;
+    position: relative;
+}
+
+.item-bg {
+    display: block;
+    margin: 0 auto;
+    height: 160px;
+    width: 160px;
+}
+
+.item-img {
+    width: 100%;
+}
+
+.itemRating {
+    background-color: #FFFF00;
+    color: black;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+    height: 30px;
+    width: 30px;
+    padding-top: 7px;
+    border-radius: 15px;
+}
+
+.trashIcon {
+    position: absolute;
+    right: 25px;
+    bottom: 23px;
+    background-color: transparent;
+}
+
+.trashIcon img {
+    height: 30px;
+    width: 30px;
+
+}
+
+
+.ratingContainer {
+    margin-left: -36px;
+    margin-top: 10px;
+    
+}
+
+input {
+    width: 50px;
+    margin-right: 10px;
+    background-color: transparent;
+    border-style: none;
+    border-bottom-style: solid;
+    border-color: white;
+    padding-bottom: 3px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+}
+
+button {
+    width: 60px;
+    font-size: 15px;
+    background-color: #5b7199;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    
+}
+
+button:hover {
+    background-color: white;
+    color: #15182b;
+}
